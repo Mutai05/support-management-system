@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 
     'dashboard',
     'tickets',
-    'users',
+    'guests',
+    'approvals',
 
     'widget_tweaks'
 ]
